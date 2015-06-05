@@ -1,4 +1,7 @@
 ### application.bat - 2015 - Geoffrey Dieffenbach
-echo "Version 1.1"
-echo "Build : 10:00"
+version="2"
+build_hour="11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
 echo "Copyright company - 2015"
